@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivekvibhuti
-- 👀 I’m interested in things like computational intellegence.
-- 🌱 I’m currently learning algorithms and data structure.(Just getting started!)
-  
+- 👨‍💻 I am currently pursuing BSc in Programming and Data Science, offered by Indian Institute of Technology, Madras (IITM).
+- 📚 I am also studying mathematics independently.
+- 💻 I'd love to contribute to open source projects once I get enough programming knowledge.
 
 <!---
 vivekvibhuti/vivekvibhuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
