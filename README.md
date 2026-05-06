@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @vivekvibhuti
-- 👨‍💻 I am currently pursuing B.S in Data Science and Applications, offered by Indian Institute of Technology, Madras (IITM).
-- 📚 !!! ON A HIATUS !!!
-
-<!---
-vivekvibhuti/vivekvibhuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- hellope
+- I am currently pursuing B.S in Data Science and Applications, offered by Indian Institute of Technology, Madras (IITM).
+- !!! WAS ON A LONG HIATUS !!! (will start adding things here from now.)
+- current focus: mostly golang/rust one-offs / toolings
+- _(and some long term leisurly projects : notes app with embedded db, so that i when i make a dummy db later on, i can hook it up to this notes app)_
